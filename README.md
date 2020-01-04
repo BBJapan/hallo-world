@@ -1,3 +1,2 @@
 # hallo-world
-My first repository on Github
-I study python.
+My first repository on Github.
